@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -rnw '/tmp/magic/' -e 'SCHOOL'
+file -m school.mgc '/tmp/magic/'
