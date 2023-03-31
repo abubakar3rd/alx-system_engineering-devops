@@ -1,3 +1,2 @@
 #!/bin/bash
-chown * vincent
-chgroup * staff
+chown -R vincent:staff /tmp/h/
